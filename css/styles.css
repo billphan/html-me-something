@@ -154,8 +154,8 @@ hr {
 }
 
 .section-statement {
-  width: 75%;
-  float: left;
+  width: 100%;
+  /*float: left;*/
 }
 
 .section-statement h1 {
